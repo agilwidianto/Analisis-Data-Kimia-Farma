@@ -63,3 +63,6 @@ Using four CSV files from the dataset, the data was imported into Google BigQuer
 
 ## Dashboard 
 <img width="1025" alt="image" src="https://github.com/agilwidianto/kimia-farma-assets/blob/main/dashbord.png?raw=true" />
+
+# Visualisasi Data
+Looker Studio Dashboard: https://lookerstudio.google.com/u/0/reporting/767473b2-acd2-4907-bb61-48c18ff1a6be/page/tTLsE
